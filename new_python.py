@@ -31,3 +31,11 @@ result = map(lambda x: x**2, iterable)
 print(list(result))
 print(list(map(lambda x: x**2, iterable)))  # çıktı yukarıdaki ile aynı olur.
 
+## LAMBDA İLE FİLTER FONKSİYONU 
+        
+filter(function, sequence)
+## ÖĞELERİN DOĞRU OLUP OLMADIĞINI İŞLER TEST EDER.
+FOR İNSTANCE:
+first_ten = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+even = filter(lambda x: x % 2 == 0, first_ten)
+        print("Even numbers are : ", list(even))
