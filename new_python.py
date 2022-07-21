@@ -24,3 +24,10 @@ calisan1.show_info()
         
 calisan.show_info(calisan1)  # BU ŞEKİLDE DE ÇAĞIRABİLİRİZ.
 
+Laambda map() = map(function, iterable)
+iterable = (1, 2, 3, 4, 5, 6)
+map(lambda x: x**2, iterable)
+result = map(lambda x: x**2, iterable)
+print(list(result))
+print(list(map(lambda x: x**2, iterable)))  # çıktı yukarıdaki ile aynı olur.
+
