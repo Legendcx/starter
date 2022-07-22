@@ -39,3 +39,5 @@ FOR İNSTANCE:
 first_ten = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 even = filter(lambda x: x % 2 == 0, first_ten)
         print("Even numbers are : ", list(even))
+        
+print("Hayat ne güzel!")
