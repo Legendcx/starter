@@ -41,3 +41,7 @@ even = filter(lambda x: x % 2 == 0, first_ten)
         print("Even numbers are : ", list(even))
         
 print("Hayat ne güzel!")
+        
+## (\n) printin içinde enter yapar.
+# (\t) tab 'a basmak gibi bir şeydir.
+# (\b) bir karakter geri siler. Dikkat ediniz bunlar çok önemlidir.
