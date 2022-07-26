@@ -45,3 +45,5 @@ print("Hayat ne güzel!")
 ## (\n) printin içinde enter yapar.
 # (\t) tab 'a basmak gibi bir şeydir.
 # (\b) bir karakter geri siler. Dikkat ediniz bunlar çok önemlidir.
+
+# buralar eskiden dutluktu. cümlesini kullanmayınız.
