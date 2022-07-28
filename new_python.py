@@ -47,3 +47,7 @@ print("Hayat ne güzel!")
 # (\b) bir karakter geri siler. Dikkat ediniz bunlar çok önemlidir.
 
 # buralar eskiden dutluktu. cümlesini kullanmayınız.
+
+stri = "PyThoN SynTaX"
+
+print(stri.title())
