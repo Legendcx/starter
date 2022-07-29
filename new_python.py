@@ -51,3 +51,5 @@ print("Hayat ne güzel!")
 stri = "PyThoN SynTaX"
 
 print(stri.title())
+        
+print("Merhaba Burhan net dünyasına hoşgeldiniz")
