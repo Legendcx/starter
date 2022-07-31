@@ -54,3 +54,7 @@ print(stri.title())
         
 print("Merhaba Burhan net dünyasına hoşgeldiniz")
 print("Gel artık net dünyasına")
+
+family["Hilmi"] = "Ali"  ## dictionery lere en hızlı eleme yolu
+family.update({"Teyze":"Güllü"})
+
