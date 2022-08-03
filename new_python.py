@@ -57,4 +57,7 @@ print("Gel artık net dünyasına")
 
 family["Hilmi"] = "Ali"  ## dictionery lere en hızlı eleme yolu
 family.update({"Teyze":"Güllü"})
+print(* "Burhan")
+print("Hayat bizim istediğimiz gibi gitmeyebilir. ama iyi değerlendirelim.")
 
+  
